@@ -1,0 +1,21 @@
+{
+    "firstName": "tom",
+    "lastName": "brady",
+    "age": 41,
+    "position": "qb",
+    "team": "patriots"
+}
+{
+    "firstName": "mário",
+    "lastName": "prada",
+    "age": 28,
+    "position": "fd",
+    "team": "generous"
+}
+{
+    "firstName": "cláudia",
+    "lastName": "silva",
+    "age": 28,
+    "position": "arq",
+    "team": "ctt"
+}
