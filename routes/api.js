@@ -55,7 +55,7 @@ router.get('/profile/remove', (req, res) => {
     .then((data) => {
       res.json({
         confirmation: 'success',
-        message: data,
+        message: `Profile ${data} removed`,
       });
     })
     .catch((err) => {
